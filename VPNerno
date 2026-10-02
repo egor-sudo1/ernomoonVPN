@@ -1,0 +1,8 @@
+vless://528168c0-7c19-4d5f-b18b-2799bedbaeed@0.0.0.0:1?type=tcp&headerType=none&security=none#ОБЫЧНЫЕ VPN
+vless://b3f30093-4150-44ff-9396-6a8d23a8f28e@plgemini.elusionvpncom.com:443?type=tcp&security=reality&pbk=z5GcMzyVNiGl119htbYfSXZ4QxZMrrLZQjS4Igbiqx8&fp=firefox&sni=plgemini.elusionvpncom.com&sid=1cf9a7b34dcf7e04&flow=xtls-rprx-vision&spiderX=%2F#🇫🇮Финляндия
+vless://b3f30093-4150-44ff-9396-6a8d23a8f28e@plgemini.elusionvpncom.com:443?type=tcp&security=reality&pbk=z5GcMzyVNiGl119htbYfSXZ4QxZMrrLZQjS4Igbiqx8&fp=firefox&sni=plgemini.elusionvpncom.com&sid=1cf9a7b34dcf7e04&flow=xtls-rprx-vision&spiderX=%2F#🇸🇪Швеция
+vless://b3f30093-4150-44ff-9396-6a8d23a8f28e@gr4.elusionvpncom.com:443?type=tcp&security=reality&pbk=o46kXh6F3WyWOQO83c52-_xf1MemCDICkEwsMpzLcD4&fp=firefox&sni=gr4.elusionvpncom.com&sid=1e1f4118e58b9cc0&flow=xtls-rprx-vision&spiderX=%2F#🇩🇪Германия
+vless://b3f30093-4150-44ff-9396-6a8d23a8f28e@plgemini.elusionvpncom.com:443?type=tcp&security=reality&pbk=z5GcMzyVNiGl119htbYfSXZ4QxZMrrLZQjS4Igbiqx8&fp=firefox&sni=plgemini.elusionvpncom.com&sid=1cf9a7b34dcf7e04&flow=xtls-rprx-vision&spiderX=%2F#🇱🇹Литва
+vless://b3f30093-4150-44ff-9396-6a8d23a8f28e@plgemini.elusionvpncom.com:443?type=tcp&security=reality&pbk=z5GcMzyVNiGl119htbYfSXZ4QxZMrrLZQjS4Igbiqx8&fp=firefox&sni=plgemini.elusionvpncom.com&sid=1cf9a7b34dcf7e04&flow=xtls-rprx-vision&spiderX=%2F#🇳🇱Нидерланды
+vless://528168c0-7c19-4d5f-b18b-2799bedbaeed@0.0.0.0:1?type=tcp&headerType=none&security=none#ДОП СЕРВЕРА
+vless://b3f30093-4150-44ff-9396-6a8d23a8f28e@45.11.27.183:443?type=tcp&security=reality&pbk=7GQBTsNIMFg-_zy23lH7s4NWju-hBbTofB1aIIHI_UI&fp=firefox&sni=ads.x5.ru&sid=a7f3c12d8e4b9051&flow=xtls-rprx-vision#🇸🇴Для Ozon и т.д
